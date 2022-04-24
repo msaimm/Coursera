@@ -1,0 +1,52 @@
+#header-nav{
+		background-color: red;
+
+	}
+
+	#heading{
+		font-size: 40px;
+
+
+
+	}
+	#content{
+		;
+		margin-bottom:40px;
+		margin-top:-20px;
+		color: white;
+	}
+
+body{
+background-color: #e0e0e0;
+}
+	
+
+	#navcont { 
+		padding: 0;
+		margin:0;
+
+	}
+.navbar-collapse {
+margin-bottom:-16px;
+}
+#top{
+	margin-top: 10px;
+}
+.navbar-light .navbar-brand h1{
+	margin-left: 40px;
+	color: white;
+	font-weight: bold;
+
+}
+	
+	.navbar-toggler{
+		background-color: white;
+		margin-right: 20px;
+	}
+	.navbar-light .navbar-nav .nav-link{
+		font-weight: bold;
+		font-size: 100%;
+		border:solid 1px black;
+		background-color: white;
+		color: black;
+	}
